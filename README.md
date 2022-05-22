@@ -14,4 +14,4 @@ Below are a few links to interesting projects I've worked/collaborated on:
 
 ## Contact
 
-If you are interested in chatting with me or collaborating on a project, please reach out to me on [LinkedIn](https://www.linkedin.com/in/fernandozhs).
+If you are interested in chatting or collaborating on a project, please reach out to me on [LinkedIn](https://www.linkedin.com/in/fernandozhs).
