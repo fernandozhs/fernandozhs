@@ -11,7 +11,7 @@ Below are a few links to interesting projects I've worked/collaborated on:
 
 - :card_file_box: [**PRIZM Metadatabase**](https://github.com/PRIZM-Experiment/prizm-data-wrangling): A Python module which leverages SQLite to keep track of the [PRIZM](https://arxiv.org/abs/1806.09531) experiment's data and deployment configurations.
 
-- :electron: [**Quantum Particle Production**](https://github.com/fernandozhs/quantum-particle-production): Ever wondered how quantum particle production can affect the Universe's expansion? Find out more about it here.
+- :electron: [**Quantum Particle Production**](https://github.com/fernandozhs/quantum-particle-production): Code for simulating quantum particle production and its back-reaction effect on the Universe's expansion.
 
 
 ## Contact
